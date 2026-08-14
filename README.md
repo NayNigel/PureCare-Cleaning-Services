@@ -2,14 +2,14 @@
 
 ## Student Information
 
-Student Name: Rethabile Pitse
-Student Number: ST10516238
-Module: WEDE5020 Web Development (Introduction)
+Student Name: Rethabile Pitse  
+Student Number: ST10516238  
+Module: WEDE5020 Web Development (Introduction)  
 Project: Part 1 — Website Project
 
 ## Project Overview
 
-PureCare Cleaning Services is a Johannesburg based cleaning business concept providing professional residential, commercial and specialised cleaning services.
+PureCare Cleaning Services is a Johannesburg-based cleaning business concept providing professional residential, commercial and specialised cleaning services.
 
 The website provides customers with information about the organisation, available cleaning services, service enquiries and contact information. The website is designed with a clean, modern and professional aesthetic that reflects the cleaning industry.
 
@@ -22,7 +22,7 @@ The objectives are to:
 - Provide clear information about residential, commercial and specialised cleaning services.
 - Increase service enquiries through clear calls to action and an enquiry form.
 - Build customer confidence through professional presentation and clear service descriptions.
-- Make information easy to find through simple five page navigation.
+- Make information easy to find through simple five-page navigation.
 - Clearly communicate the Johannesburg service area.
 - Provide a foundation for future booking, testimonials, gallery content, JavaScript functionality and SEO.
 
@@ -60,8 +60,67 @@ CSS styling and responsive design will be developed as part of Part 2. JavaScrip
 
 PureCare Cleaning Services
 
-Home
-About Us
-Services
-Enquiry
-Contact
+- Home
+- About Us
+- Services
+- Enquiry
+- Contact
+
+## File and Folder Structure
+
+purecare-cleaning/
+
+- index.html
+- about.html
+- services.html
+- enquiry.html
+- contact.html
+- README.md
+- css/
+  - style.css
+- images/
+  - image1.jpg
+  - image2.jpg
+  - image3.jpg
+  - image4.jpg
+  - image5.jpg
+
+## Timeline and Milestones
+
+| Week | Activity | Deliverable |
+|---|---|---|
+| Week 1 | Proposal and approval | Website proposal |
+| Week 2 | Research and content sourcing | Research and sources |
+| Week 3 | Planning | Sitemap, wireframes and folders |
+| Week 4 | HTML development | Five HTML pages and navigation |
+| Week 5 | Testing and corrections | Browser and website testing |
+| Week 6 | Documentation | README, references and GitHub |
+| Part 2 | CSS and responsive design | Visual styling |
+| Part 3 | JavaScript, forms and SEO | Interactivity and optimisation |
+
+## Changelog
+
+### Version 1.0 — Part 1
+
+- Created the PureCare Cleaning Services project.
+- Created five main website pages.
+- Added navigation between all pages.
+- Added service information.
+- Added enquiry and contact forms.
+- Added images and alternative text.
+- Added CSS stylesheet.
+- Created sitemap and project folder structure.
+- Created GitHub repository.
+- Added project documentation.
+
+## References
+
+The Independent Institute of Education (IIE). 2026. WEDE5020 Web Development (Introduction): Assessment Type: POE (Paper and Marking Rubric).
+
+Iyana Cleaning Solutions. 2026. Services.
+
+CleanServ. 2026. CleanServ.
+
+## AI Disclosure
+
+AI assistance was used during the preparation and development of this assignment. The required institutional AI disclosure and supporting evidence will be included.

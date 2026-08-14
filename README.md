@@ -9,7 +9,7 @@ Project: Part 1 — Website Project
 
 ## Project Overview
 
-PureCare Cleaning Services is a Johannesburg-based cleaning business concept providing professional residential, commercial and specialised cleaning services.
+PureCare Cleaning Services is a Johannesburg based cleaning business concept providing professional residential, commercial and specialised cleaning services.
 
 The website provides customers with information about the organisation, available cleaning services, service enquiries and contact information. The website is designed with a clean, modern and professional aesthetic that reflects the cleaning industry.
 
@@ -124,3 +124,13 @@ CleanServ. 2026. CleanServ.
 ## AI Disclosure
 
 AI assistance was used during the preparation and development of this assignment. The required institutional AI disclosure and supporting evidence will be included.
+
+## References
+
+The Independent Institute of Education (IIE). 2026. WEDE5020 Web Development (Introduction): Assessment Type: POE (Paper and Marking Rubric). Johannesburg: The Independent Institute of Education.
+
+Iyana Cleaning Solutions. 2026. Services. Available at: https://iyanacleaningsolutions.co.za/services/ [Accessed 14 August 2026].
+
+CleanServ. 2026. CleanServ. Available at: https://cleanserv.co.za/ [Accessed 14 August 2026].
+
+OpenAI. 2026. ChatGPT. Available at: https://chatgpt.com/ [Accessed 14 August 2026].

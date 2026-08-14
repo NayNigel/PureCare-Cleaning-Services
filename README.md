@@ -127,10 +127,22 @@ AI assistance was used during the preparation and development of this assignment
 
 ## References
 
-The Independent Institute of Education (IIE). 2026. WEDE5020 Web Development (Introduction): Assessment Type: POE (Paper and Marking Rubric). Johannesburg: The Independent Institute of Education.
+The Independent Institute of Education (IIE). 2026. WEDE5020 Web Development (Introduction): Assessment Type: POE (Paper and Marking Rubric).
 
 Iyana Cleaning Solutions. 2026. Services. Available at: https://iyanacleaningsolutions.co.za/services/ [Accessed 14 August 2026].
 
 CleanServ. 2026. CleanServ. Available at: https://cleanserv.co.za/ [Accessed 14 August 2026].
+
+Image Sources
+
+Image 1: Vitaly Gariev. 2025. A woman vacuuming a bright, modern living room. Unsplash. Available at: https://unsplash.com/photos/a-woman-vacuuming-a-bright-modern-living-room-u8knk6Hl8JA [Accessed 14 August 2026].
+
+Image 2: Curated Lifestyle. 2024. Woman cleaning the house. Unsplash. Available at: https://unsplash.com/photos/woman-cleaning-the-house-w5f1SZvkzcU [Accessed 14 August 2026].
+
+Image 3: La Miko. Cleaning Supplies. Pexels. Available at: https://www.pexels.com/photo/cleaning-supplies-3616735/ [Accessed 14 August 2026].
+
+Image 4: Unsplash. Carpet Cleaning. Available at: https://unsplash.com/s/photos/carpet-cleaning [Accessed 14 August 2026].
+
+Image 5: Pexels. Cleaning Supplies Photos. Available at: https://www.pexels.com/search/cleaning%20supplies/ [Accessed 14 August 2026].
 
 OpenAI. 2026. ChatGPT. Available at: https://chatgpt.com/ [Accessed 14 August 2026].

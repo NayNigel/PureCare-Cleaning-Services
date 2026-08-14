@@ -1,85 +1,67 @@
-# PureCare Cleaning Services — WEDE5020 Part 1
+# PureCare Cleaning Services
 
-## Student Details
-- Student Name: Rethabile Pitse
-- Student Number: ST10516238
+## Student Information
 
-## Organisation
-**PureCare Cleaning Services**
+Student Name: Rethabile Pitse
+Student Number: ST10516238
+Module: WEDE5020 Web Development (Introduction)
+Project: Part 1 — Website Project
 
-PureCare is a cleaning service website project aimed at presenting residential, commercial and specialised cleaning services in a clear and professional way.
+## Project Overview
+
+PureCare Cleaning Services is a Johannesburg based cleaning business concept providing professional residential, commercial and specialised cleaning services.
+
+The website provides customers with information about the organisation, available cleaning services, service enquiries and contact information. The website is designed with a clean, modern and professional aesthetic that reflects the cleaning industry.
 
 ## Website Goals and Objectives
-### Goals
-- Present PureCare's cleaning services clearly.
-- Make it easy for potential customers to understand the available services.
-- Provide a simple way for visitors to submit a cleaning enquiry.
-- Provide clear contact and service-area information.
 
-### Objectives
-- Build a five-page HTML website.
-- Provide consistent navigation across all pages.
-- Create separate Services, Enquiry and Contact pages.
-- Use accessible, structured HTML and clearly labelled forms.
-- Provide a foundation that can be enhanced with CSS and JavaScript in later project stages.
+The main goal of the website is to establish a professional online presence that allows potential customers to understand PureCare's services and submit cleaning enquiries.
+
+The objectives are to:
+
+- Provide clear information about residential, commercial and specialised cleaning services.
+- Increase service enquiries through clear calls to action and an enquiry form.
+- Build customer confidence through professional presentation and clear service descriptions.
+- Make information easy to find through simple five page navigation.
+- Clearly communicate the Johannesburg service area.
+- Provide a foundation for future booking, testimonials, gallery content, JavaScript functionality and SEO.
 
 ## Key Features and Functionality
-- Five-page website: Home, About Us, Services, Enquiry and Contact.
-- Consistent site-wide navigation.
-- Service categories for residential, commercial and specialised cleaning.
-- Service enquiry form with customer details, property type, service selection, preferred date and requirements.
-- Contact form for general enquiries, service information and feedback.
-- Service-area information.
-- Location/map section planned for later development.
-- Separate CSS and JavaScript folders for later development stages.
+
+- Home page introducing PureCare Cleaning Services.
+- About Us page explaining the business concept, approach and values.
+- Services page covering residential, commercial and specialised cleaning.
+- Enquiry page allowing customers to provide their details and cleaning requirements.
+- Contact page containing service areas and a contact form.
+- Consistent navigation across all website pages.
+- Consistent footer across all pages.
+- Responsive page structure for different screen sizes.
+- Images with descriptive alternative text.
+- External CSS stylesheet for website styling.
+- Contact and enquiry forms prepared for future functionality.
+
+## Part 1 Details
+
+Part 1 focuses on the development of the basic website structure using HTML5.
+
+The website consists of five main HTML pages:
+
+- index.html — Home
+- about.html — About Us
+- services.html — Services
+- enquiry.html — Enquiry
+- contact.html — Contact
+
+The project uses Visual Studio Code for development, Git for version control and GitHub for repository management.
+
+CSS styling and responsive design will be developed as part of Part 2. JavaScript functionality, form validation and SEO improvements will be developed as part of Part 3.
 
 ## Sitemap
-```text
+
+PureCare Cleaning Services
+
 Home
-├── About Us
-├── Services
-├── Enquiry
-└── Contact
-```
-
-## File and Folder Structure
-```text
-PureCare/
-├── index.html
-├── about.html
-├── services.html
-├── enquiry.html
-├── contact.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-└── wireframes/
-```
-
-## Timeline and Milestones
-| Stage | Milestone |
-|---|---|
-| Part 1 | Proposal, website structure, five HTML pages, forms, sitemap and wireframes |
-| Part 2 | CSS styling, visual design and responsive layout |
-| Part 3 | JavaScript functionality, validation and interactive features |
-| Final stage | Testing, refinement, documentation and submission |
-
-## Changelog
-### Part 1 — Initial Development
-- Created the five required HTML pages.
-- Added site-wide navigation.
-- Added the enquiry and contact forms.
-- Added the initial CSS foundation.
-- Added the project README and sitemap.
-- Formatted the HTML, CSS and JavaScript files for readability.
-- Removed code comments from HTML, CSS and JavaScript files.
-
-## References
-References for external images, text, logos, code and other resources used in the final website will be recorded here as they are selected and incorporated into the project.
-
-## Submission Notes
-- Replace the student name and student number placeholders before submission.
-- Add final image sources to this section once the images are selected.
-- The project should be pushed to the required GitHub repository before submission.
+About Us
+Services
+Enquiry
+Contact

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naynigel.github.io/PureCare-Cleaning-Services/sitemap.xml

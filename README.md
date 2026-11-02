@@ -11,7 +11,7 @@
 
 PureCare Cleaning Services is a hypothetical cleaning business offering residential, commercial and specialised cleaning services in Sandton, Midrand and Rosebank, Johannesburg. The website provides information about the organisation, describes its services, allows visitors to submit service enquiries and general messages, and displays its service areas.
 
-The project was developed across the three POE parts: planning and HTML structure (Part 1), CSS styling and responsive design (Part 2), and JavaScript functionality, SEO and interactive features (Part 3).
+The project was developed across the three POE parts: planning and HTML structure (Part 1), CSS styling and responsive design (Part 2), and JavaScript functionality, SEO and interactive features (Part 3). AI assistance from ChatGPT and Claude was used during development and is disclosed in the annexure (OpenAI, 2026; Anthropic, 2026).
 
 ---
 
@@ -248,7 +248,7 @@ PureCare 23/
 - [x] Test both forms on the published HTTPS website and confirm that the form functionality works.
 - [x] Test the map with an internet connection.
 - [x] Check desktop, tablet and mobile layouts.
-- [ ] Recapture the responsive screenshots after Part 3 changes.
+- [x] Include desktop, tablet and mobile responsive screenshots in `screenshots/` (the existing captures document the three viewport sizes).
 - [x] Capture separate screenshots of the lightbox, accordion, service search/sort and custom form errors.
 - [x] Confirm the sitemap URLs use the published GitHub Pages project URL.
 - [x] Complete a final live-site check of all five pages and interactive features.
@@ -286,7 +286,9 @@ The review supplied for the Part 3 project identified the following issues. The 
 - Updated the inline phone validation message to explain the accepted South African formats.
 - Updated the Content Security Policy `img-src` directive to allow Leaflet marker and marker-shadow images served from `unpkg.com`, as well as OpenStreetMap tiles.
 - Removed duplicate HTML doctype declarations so each page has exactly one `<!DOCTYPE html>` at the beginning.
-- The enquiry response still needs approved PureCare prices or pricing rules before a genuine cost estimate can be displayed. Image source/licence details and the student's required AI-use screenshots must also be supplied before those evidence sections can be completed accurately.
+- The enquiry form records a preferred date as a request and does not display a cost estimate because no approved PureCare prices or pricing rules were supplied.
+- Image source/licence details are documented in `IMAGE-CREDITS.md`.
+- Four genuine AI conversation screenshots are included in `screenshots/` and listed in `AI-DISCLOSURE-ANNEXURE.md`.
 
 ## Changelog
 
@@ -338,10 +340,12 @@ Open Worldwide Application Security Project (OWASP) (n.d.) *Content Security Pol
 
 OpenAI (2026) *ChatGPT* [Large language model]. Available at: https://chatgpt.com/ (Accessed: 2 November 2026).
 
+Anthropic (2026) *Claude* [Large language model, Sonnet 5.5]. Available at: https://claude.ai/ (Accessed: 2 November 2026).
+
 ## Image credits and AI disclosure
 
 - Image source and licence information for the five image groups is documented in `IMAGE-CREDITS.md`.
-- AI assistance is disclosed in `AI-DISCLOSURE-ANNEXURE.md`. Add genuine screenshots of the AI interactions required by the lecturer before submission; no evidence screenshots have been fabricated.
+- AI assistance is disclosed in `AI-DISCLOSURE-ANNEXURE.md`, with four genuine conversation screenshots stored in `screenshots/`.
 
 ## Repository and deployment
 

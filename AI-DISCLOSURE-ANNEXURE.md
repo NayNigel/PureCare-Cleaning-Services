@@ -23,14 +23,14 @@ AI-generated suggestions were reviewed and adapted during the project. The stude
 
 ## 3. AI conversation evidence
 
-The assignment requires screenshots of AI use as supporting evidence. Screenshots must be genuine captures of the conversations used during the project. They must not be recreated or presented as original evidence if they were not captured from the actual tools.
+Four genuine screenshots of AI conversations are included in the repository's `screenshots/` folder:
 
-**Evidence to attach before submission:**
-1. **ChatGPT screenshot:** Capture a genuine section of the ChatGPT conversation showing a project-related request and the assistance provided.
-2. **Claude screenshot:** Capture a genuine section of the Claude conversation showing the project review or feedback.
-3. If one of the original conversations is no longer accessible, do not create a replacement screenshot and label it as historical evidence. Keep this disclosure and explain that the original screenshot could not be retrieved.
+1. `screenshots/ai-evidence-chatgpt-project-review-1.png` — ChatGPT project review.
+2. `screenshots/ai-evidence-chatgpt-project-review-2.png` — ChatGPT project review (continued view).
+3. `screenshots/ai-evidence-claude-part2-checklist-1.png` — Claude Part 2 requirements checklist.
+4. `screenshots/ai-evidence-claude-part2-feedback-2.png` — Claude Part 2 feedback and identified gaps.
 
-**Current evidence status:** The original AI conversation screenshots have not yet been added to this annexure. Add the genuine screenshots below this section or submit them as clearly named supporting files, according to the lecturer's instructions.
+The screenshots document use of both AI tools. The two ChatGPT screenshots are from the same project-review conversation, and the two Claude screenshots are from the same Part 2 review conversation.
 
 ## 4. References
 

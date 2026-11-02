@@ -1,0 +1,29 @@
+PURECARE CLEANING SERVICES — PART 3 DEPLOYMENT NOTES
+
+CURRENT STATUS
+- The website files are prepared for static hosting.
+- The website has NOT been deployed by this ZIP.
+- GitHub commits have NOT been created by this ZIP.
+- The GitHub Pages URL below is provisional and must be checked in repository Settings > Pages after deployment.
+
+PROVISIONAL SITE BASE
+https://naynigel.github.io/PureCare-Cleaning-Services/
+
+BEFORE DEPLOYMENT
+1. Extract this ZIP.
+2. Open the "PureCare 23" folder. Its contents (index.html, about.html, services.html, enquiry.html, contact.html, css/, js/, images/, robots.txt and sitemap.xml) must be at the root of the GitHub Pages publishing source.
+3. Push the files to the correct GitHub repository using several descriptive commits.
+4. In GitHub, open Settings > Pages and select the publishing branch/folder. Save and wait for the deployment to complete.
+5. Open the URL shown in Settings > Pages and test every page.
+6. If the published URL differs from the provisional URL above, update every <loc> in sitemap.xml and the Sitemap: line in robots.txt.
+7. Re-submit sitemap.xml in Google Search Console if the site is intended to be indexed.
+
+FORM LIMITATION
+
+MAP TEST
+The Leaflet map requires an internet connection to load the Leaflet library and OpenStreetMap map tiles. Markers represent approximate area centres, not PureCare office addresses.
+
+IMAGE ATTRIBUTION
+The ZIP did not contain source URLs or licence details for the five original photographs. Confirm the original source and licence for each photograph and complete IMAGE-CREDITS.md before final submission. Do not claim an image is royalty-free unless its licence confirms this.
+
+FORM SUBMISSION: Both enquiry and contact forms use separate Formspree endpoints and Fetch API (AJAX). Test each form on the deployed HTTPS website. Formspree requires an internet connection and may require endpoint email verification/account configuration.

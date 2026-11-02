@@ -1,29 +1,46 @@
 PURECARE CLEANING SERVICES — PART 3 DEPLOYMENT NOTES
 
-CURRENT STATUS
-- The website files are prepared for static hosting.
-- The website has NOT been deployed by this ZIP.
-- GitHub commits have NOT been created by this ZIP.
-- The GitHub Pages URL below is provisional and must be checked in repository Settings > Pages after deployment.
+CURRENT DEPLOYMENT STATUS
+- The website is published using GitHub Pages.
+- The source repository is https://github.com/NayNigel/PureCare-Cleaning-Services
+- The published website is https://naynigel.github.io/PureCare-Cleaning-Services/
+- GitHub Pages is configured to publish from the main branch and repository root (/(root)).
+- The website files and recent fixes have been committed to the GitHub repository.
 
-PROVISIONAL SITE BASE
+PUBLISHED WEBSITE
 https://naynigel.github.io/PureCare-Cleaning-Services/
 
-BEFORE DEPLOYMENT
-1. Extract this ZIP.
-2. Open the "PureCare 23" folder. Its contents (index.html, about.html, services.html, enquiry.html, contact.html, css/, js/, images/, robots.txt and sitemap.xml) must be at the root of the GitHub Pages publishing source.
-3. Push the files to the correct GitHub repository using several descriptive commits.
-4. In GitHub, open Settings > Pages and select the publishing branch/folder. Save and wait for the deployment to complete.
-5. Open the URL shown in Settings > Pages and test every page.
-6. If the published URL differs from the provisional URL above, update every <loc> in sitemap.xml and the Sitemap: line in robots.txt.
-7. Re-submit sitemap.xml in Google Search Console if the site is intended to be indexed.
+REPOSITORY
+https://github.com/NayNigel/PureCare-Cleaning-Services
 
-FORM LIMITATION
+DEPLOYMENT AND MAINTENANCE
+1. Make website changes in the project files.
+2. Commit and push the updated files to the main branch.
+3. GitHub Pages automatically publishes changes from the configured main branch and root folder.
+4. Allow the deployment to finish, then open the live website.
+5. Refresh the affected pages and test the changed features.
+6. If the project is moved to a different repository or its published URL changes, update every page's canonical/Open Graph references where applicable, all sitemap.xml page URLs, and the Sitemap: line in robots.txt.
+7. Submit sitemap.xml through Google Search Console if the site is intended to be indexed.
 
-MAP TEST
-The Leaflet map requires an internet connection to load the Leaflet library and OpenStreetMap map tiles. Markers represent approximate area centres, not PureCare office addresses.
+FORMS
+- The enquiry and contact forms use separate Formspree endpoints and asynchronous Fetch API submission.
+- Enquiry endpoint: https://formspree.io/f/mdeepwjp
+- Contact endpoint: https://formspree.io/f/mwllwrzo
+- Test both forms on the published HTTPS website after changes. Successful delivery depends on the external Formspree service and its account/endpoint configuration.
+- Client-side validation does not replace server-side validation or spam protection.
+
+MAP
+- The Leaflet map requires an internet connection to load the external library and OpenStreetMap map tiles.
+- Markers represent approximate area centres for Sandton, Midrand and Rosebank, not exact business premises or customer addresses.
+- Keep OpenStreetMap attribution visible when using the map.
 
 IMAGE ATTRIBUTION
-The ZIP did not contain source URLs or licence details for the five original photographs. Confirm the original source and licence for each photograph and complete IMAGE-CREDITS.md before final submission. Do not claim an image is royalty-free unless its licence confirms this.
+- Image source and licence information for the five image groups is documented in IMAGE-CREDITS.md.
+- Retain the source and licence details if images are replaced or added.
 
-FORM SUBMISSION: Both enquiry and contact forms use separate Formspree endpoints and Fetch API (AJAX). Test each form on the deployed HTTPS website. Formspree requires an internet connection and may require endpoint email verification/account configuration.
+FINAL DEPLOYMENT CHECK
+- Confirm all five pages load from the published URL.
+- Test navigation, service search and sorting, gallery lightbox, FAQ accordion, forms and map.
+- Check desktop, tablet and mobile layouts.
+- Confirm robots.txt and sitemap.xml are accessible at the published site root.
+- Keep README.md and this deployment note consistent with the current live website and repository.

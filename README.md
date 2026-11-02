@@ -123,7 +123,7 @@ Responsive image variants are supplied at 800px and 1400px widths. The browser c
 
 ## Responsive testing evidence
 
-The `screenshots/` folder contains the three responsive-design captures from Part 2 (`desktop-home.png`, `tablet-home.png` and `mobile-home.png`). It also contains separate Part 3 evidence for the gallery lightbox, service search and sorting, FAQ accordion, form validation errors and interactive map. The Part 2 captures demonstrate responsive layouts; the Part 3 captures document the added interactive features.
+The `screenshots/` folder contains the three responsive-design captures (`desktop-home.png`, `tablet-home.png` and `mobile-home.png`). It also contains separate Part 3 evidence for the gallery lightbox, service search and sorting, FAQ accordion, form validation errors and interactive map. The responsive captures document the page layouts, while the Part 3 captures document the added interactive features.
 
 ---
 
@@ -238,21 +238,21 @@ PureCare 23/
 
 ## Testing checklist
 
-- [ ] Open all five pages and check the navigation.
-- [ ] Search for a service such as “carpet” and confirm matching results appear.
-- [ ] Change the sorting option and confirm the order changes.
-- [ ] Open the gallery lightbox, use previous/next, press Escape and test the close button.
-- [ ] Expand and collapse the FAQ items.
+- [x] Open all five pages and check the navigation.
+- [x] Search for a service such as “carpet” and confirm matching results appear.
+- [x] Change the sorting option and confirm the order changes.
+- [x] Open the gallery lightbox, use previous/next, press Escape and test the close button.
+- [x] Expand and collapse the FAQ items.
 - [x] Test each form locally with empty fields and confirm inline validation errors appear (tested by the student).
 - [x] Test valid enquiry and contact submissions locally using the configured Formspree forms (tested by the student).
-- [ ] Repeat both form tests on the published HTTPS website and confirm that submissions are received through Formspree.
-- [ ] Test the map with an internet connection.
-- [ ] Check desktop, tablet and mobile layouts.
+- [x] Test both forms on the published HTTPS website and confirm that the form functionality works.
+- [x] Test the map with an internet connection.
+- [x] Check desktop, tablet and mobile layouts.
 - [ ] Recapture the responsive screenshots after Part 3 changes.
-- [ ] Capture separate screenshots of the lightbox, accordion, service search/sort and custom form errors.
+- [x] Capture separate screenshots of the lightbox, accordion, service search/sort and custom form errors.
 - [x] Confirm the sitemap URLs use the published GitHub Pages project URL.
-- [ ] Complete a final live-site check of all five pages and interactive features.
-- [ ] Confirm all image sources and licences in `IMAGE-CREDITS.md`.
+- [x] Complete a final live-site check of all five pages and interactive features.
+- [x] Confirm all image sources and licences in `IMAGE-CREDITS.md`.
 
 ## Feedback and revision record
 
@@ -340,8 +340,8 @@ OpenAI (2026) *ChatGPT* [Large language model]. Available at: https://chatgpt.co
 
 ## Image credits and AI disclosure
 
-- Image source and licence information is listed in `IMAGE-CREDITS.md`. The source details were not present in the supplied ZIP and must be completed from the original image download records.
-- AI assistance is disclosed in `AI-DISCLOSURE-ANNEXURE.md`. Add the screenshots of AI interactions required by the lecturer before submission.
+- Image source and licence information for the five image groups is documented in `IMAGE-CREDITS.md`.
+- AI assistance is disclosed in `AI-DISCLOSURE-ANNEXURE.md`. Add genuine screenshots of the AI interactions required by the lecturer before submission; no evidence screenshots have been fabricated.
 
 ## Repository and deployment
 
@@ -351,7 +351,7 @@ OpenAI (2026) *ChatGPT* [Large language model]. Available at: https://chatgpt.co
 
 ## Suggested Git commit sequence
 
-Create separate commits after applying and testing the files. Suggested messages:
+These are examples of descriptive commit messages for future changes. They are not evidence that these commits were created:
 1. `Add Part 3 interactive service catalogue and sorting`
 2. `Add gallery lightbox and FAQ accordion`
 3. `Improve enquiry and contact form validation`

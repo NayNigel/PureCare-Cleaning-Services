@@ -277,7 +277,7 @@ The review supplied for the Part 3 project identified the following issues. The 
 | Security measures were not documented | Added a Content Security Policy and documented the limitations of static client-side security |
 | Off-page and local SEO were not addressed | Added an honest plan; no backlinks or social profiles are claimed as completed |
 | References were inconsistent and there were no in-text citations | Standardised the references in Harvard style and added in-text citations |
-| Image credits and AI disclosure were missing | Added `IMAGE-CREDITS.md` and `AI-DISCLOSURE-ANNEXURE.md`; image source/licence details and required evidence screenshots still need to be completed |
+| Image credits and AI disclosure were missing | Added `IMAGE-CREDITS.md` and `AI-DISCLOSURE-ANNEXURE.md`; five image groups have documented source/licence details, and four genuine AI conversation screenshots are included in `screenshots/` |
 | Deployment was not completed | Published the website through GitHub Pages from the `main` branch and root folder |
 
 ## Final review fixes (2 November 2026)

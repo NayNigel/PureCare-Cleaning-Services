@@ -155,13 +155,16 @@ input[type="search"] { max-width: 560px; }
 /* Part 3 enhancements */
 .service-controls {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(180px, .45fr);
-  gap: .45rem 1rem;
+  grid-template-columns: minmax(0, 1fr) minmax(180px, .65fr);
+  gap: 1rem;
   max-width: 760px;
-  align-items: end;
+  align-items: start;
   margin: 1.5rem 0 .75rem;
 }
-.service-controls label { margin-top: .5rem; }
+.service-control { display: grid; gap: .35rem; min-width: 0; }
+.service-controls label { margin-top: 0; }
+.service-controls input,
+.service-controls select { margin-top: 0; }
 .service-list {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
